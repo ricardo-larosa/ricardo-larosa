@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I work in the VMware Platform Developer R&D. Currently, I'm doing PoCs and write tools using Go, Rust and TypeScript. 
+- I work in the VMware Platform Developer R&D. Currently, I'm doing PoCs and write tools using Go, Python and TypeScript.
+- Experimenting with Rust. 
 - I describe myself as a generalist. 
 <!--
 **ricardo-larosa/ricardo-larosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
