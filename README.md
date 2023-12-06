@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am currently immersing myself in AI and Machine Learning at Stanford University through their Artificial Intelligence Professional Program.
-- I have worked in tech giants like VMware, Workday, and IBM, and navigating the challenges at two startups.
+- I have worked in tech giants like VMware, Workday, and IBM. But, also navigated different challenges when working at two startups. 
 <!--
 **ricardo-larosa/ricardo-larosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
