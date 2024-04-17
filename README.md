@@ -11,6 +11,6 @@
 </a>
 
 <a href="https://digitalcredential.stanford.edu/check/66C3CE9A0EE160FB1E220B80613B694D5BFE54B298C583DC737779B7B53DC03CRnJZOHpSTmxPNWNPVWM5bDZiNWZYeHVUdTJ2bDNOa29wcmZkVmlqODhPeEUvS0hq">
-    <img src="img/xcs224n-badge.svg" alt="XCS221 Certificate" width="150"/>
+    <img src="img/xcs224n-badge.svg" alt="XCS224N Certificate" width="150"/>
 </a>
 
