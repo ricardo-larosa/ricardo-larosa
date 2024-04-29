@@ -14,3 +14,7 @@
     <img src="img/xcs224n-badge.svg" alt="XCS224N Digital Certificate" width="150"/>
 </a>
 
+### Papers
+<!-- insert link to pdf file -->
+- XCS224U Final Paper:  <a href="img/Final_Paper-ToT-Github.pdf">Can Github issues be solved with Tree Of Thoughts?</a>
+
