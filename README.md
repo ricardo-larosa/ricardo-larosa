@@ -20,5 +20,5 @@
 
 ### Papers
 <!-- insert link to pdf file -->
-- XCS224U Final Paper:  <a href="img/Final_Paper-ToT-Github.pdf">Can Github issues be solved with Tree Of Thoughts?</a>
+- XCS224U Final Paper:  <a href="https://www.researchgate.net/publication/380211016_Can_Github_issues_be_solved_with_Tree_Of_Thoughts?channel=doi&linkId=66317f4b3524304153567f32&showFulltext=true">Can Github issues be solved with Tree Of Thoughts?</a>
 
