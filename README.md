@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+I am a Senior Engineer with extensive experience in both large enterprises, including VMware, Workday, and IBM, and dynamic startup environments. Completed Stanford University's Artificial Intelligence Professional Program, specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns. Proficient in navigating and adapting to challenges across diverse domains and organizational sizes.
 - I recently finished the [Artificial Intelligence Professional Program](https://digitalcredential.stanford.edu/check/DE94E2E3988B531B2A22D9EFBAD45917FFFD6BE483D98BCE3EC662EE31C32359MWdIVUpqa2JUeGcrY2NqTGdqVWp4b0pKUnFUa1FubE4vZzJiOVhQNGhWQXE4ZWdV) at Stanford University.
-- I have worked in big companies like [VMware](https://github.com/vmware), [Workday](https://github.com/workday) and [IBM](https://github.com/workday). But, also navigated different challenges when working at startups like [Consensys](https://github.com/consensys).
-- My background is diverse but my focus at the moment is on Large Language Models, Fine-tuning, Retrieval Augmented Generation (RAG) and agentic design patterns.
+- Final paper:  <a href="https://arxiv.org/abs/2405.13057">Can Github issues be solved with Tree Of Thoughts?</a>
 
 ### Certificates
 
@@ -17,8 +17,4 @@
 <a href="https://digitalcredential.stanford.edu/check/898BEC55AA86070AD98D19FABB67527E1EFF4806A5AF081715DBE8BBBD4975E8cXJKM3hRUm1aRnFLckpuZ1dqbUhsd2NLS3FYeVh1ekdqZ21PRHJUeVlpWnFOOU5N">
     <img src="img/xcs224u-badge.svg" alt="XCS224U Digital Certificate" width="150"/>
 </a>
-
-### Papers
-<!-- insert link to pdf file -->
-- XCS224U Final Paper:  <a href="https://arxiv.org/abs/2405.13057">Can Github issues be solved with Tree Of Thoughts? </a>
 
