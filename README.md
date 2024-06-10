@@ -22,3 +22,7 @@ I am a Senior Engineer with extensive experience in both large enterprises, incl
 
 ### Open Source Contributions
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Aricardo-larosa)
+
+### Hugging Face Models
+
+- [ricardo-larosa/recogs-Meta-Llama-3-8B-Instruct](https://huggingface.co/ricardo-larosa/recogs-Meta-Llama-3-8B-Instruct) Llama 3 7B finetuned with the [ReCOGS](https://arxiv.org/abs/2303.13716) dataset. 
