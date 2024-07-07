@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Engineer with extensive experience in both large enterprises, including VMware, Workday, and IBM, and dynamic startup environments. Completed Stanford University's Artificial Intelligence Professional Program, specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns. Proficient in navigating and adapting to challenges across diverse domains and organizational sizes.
+I am a Senior Engineer with extensive experience in both large enterprises, including VMware, Workday, and IBM, and dynamic startup environments. Completed Stanford University's Artificial Intelligence Professional Program, specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns.
 
 ### Papers
 - <a href="https://arxiv.org/abs/2405.13057">Can Github issues be solved with Tree Of Thoughts?</a>
