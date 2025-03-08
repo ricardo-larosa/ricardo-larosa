@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns.
+Specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently working on Autonomous AI Agents.
 
 ### Papers
 - <a href="https://arxiv.org/abs/2405.13057">Can Github issues be solved with Tree Of Thoughts?</a>
