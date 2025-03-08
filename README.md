@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Engineer with extensive experience in both large enterprises, including VMware, Workday, and IBM, and dynamic startup environments. Alumni of Stanford University's Artificial Intelligence Professional Program, specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns.
+Specializing in Large Language Models, Fine-tuning, and Retrieval-Augmented Generation (RAG). Currently engaged in research on Agentic Design Patterns.
 
 ### Papers
 - <a href="https://arxiv.org/abs/2405.13057">Can Github issues be solved with Tree Of Thoughts?</a>
@@ -8,8 +8,6 @@ I am a Senior Engineer with extensive experience in both large enterprises, incl
 ### Certificates
 - Stanford's [Artificial Intelligence Professional Program](https://digitalcredential.stanford.edu/check/DE94E2E3988B531B2A22D9EFBAD45917FFFD6BE483D98BCE3EC662EE31C32359MWdIVUpqa2JUeGcrY2NqTGdqVWp4b0pKUnFUa1FubE4vZzJiOVhQNGhWQXE4ZWdV)
   
-
-
 ### Open Source Contributions
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Aricardo-larosa)
 
