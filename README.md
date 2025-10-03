@@ -34,4 +34,4 @@ Feel free to reach out for collaborations, questions, or discussions about AI an
 
 - GitHub: [ricardo-larosa](https://github.com/ricardo-larosa)
 - Hugging Face: [ricardo-larosa](https://huggingface.co/ricardo-larosa)
-- X.com [ricardolarosa](https://x.com/ricardolarosa)
+- X.com: [ricardolarosa](https://x.com/ricardolarosa)
