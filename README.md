@@ -2,13 +2,6 @@
 
 ## 👋 About Me
 
-Hi there! I'm Ricardo La Rosa, an AI professional specializing in:
-
-- Large Language Models (LLMs)
-- Fine-tuning techniques
-- Retrieval-Augmented Generation (RAG)
-- Autonomous AI Agents
-
 I'm passionate about advancing AI capabilities and creating practical applications that solve real-world problems.
 
 ## 🔬 Research & Publications
